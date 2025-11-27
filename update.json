@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1",
+  "latestVersionCode": 3,
+  "latestVersionName": "1.2",
   "apkUrl": "https://github.com/wegmaan-agro/CallsApp-Updates/releases/latest/download/app-release.apk",
-  "changelog": "- Added in-app updater\n- Added app info card on main screen"
+  "changelog": "- Bug fixes to call service"
 }
