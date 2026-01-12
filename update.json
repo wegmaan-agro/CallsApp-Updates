@@ -1,7 +1,8 @@
 {
-  "latestVersionCode": 6,
-  "latestVersionName": "1.5",
+  "latestVersionCode": 7,
+  "latestVersionName": "1.6",
   "apkUrl": "https://github.com/wegmaan-agro/CallsApp-Updates/releases/latest/download/app-release.apk",
-  "changelog": "- Added CRM Login\n- Added Work Manager for background retries\n- Added handling nested calls\n- Fixed WsCommandHandler.kt\n- Refactored CallWebSocketService.kt and separated code\n- Changed package name, app name & icon\n- Finalizing app for initial release"
+  "changelog": "- Bump version to 1.6\n- Added monochrome icon\n- Added notification click action\n- Minor UI changes"
 }
+
 
