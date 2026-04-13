@@ -1,8 +1,6 @@
 {
-  "latestVersionCode": 7,
-  "latestVersionName": "1.6",
+  "latestVersionCode": 8,
+  "latestVersionName": "1.7",
   "apkUrl": "https://github.com/wegmaan-agro/CallsApp-Updates/releases/latest/download/app-release.apk",
-  "changelog": "- Bump version to 1.6\n- Added monochrome icon\n- Added notification click action\n- Minor UI changes"
+  "changelog": "- Fixed login / navigation for android 12 devices\n- Moved states in login screen to login viewmodel"
 }
-
-
